@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÒ–üøÿÿÿÿ8…éÁå2J$08dd0a43-af19-4a0e-80c2-587b003bf540
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8 éÁå2J$85aebb88-4d76-444a-b939-6188afcb3b99
+r
+java:S1874"/Remove this use of "setPort"; it is deprecated.(¿û–ï8³éÁå2J$9b057cd8-a752-4535-aa2d-4fa76feb54b3
+{
+java:S1874"3Remove this use of "setHostName"; it is deprecated.(Ç›”ûÿÿÿÿ8´éÁå2J$f4394373-ecae-40ab-a022-79ae5ba40a72
+u
+java:S1874!"2Remove this use of "setUsePool"; it is deprecated.(”ŸŞ¹8¶éÁå2J$290b1fa0-b6fc-4b89-b73f-4c4bd62cebe1
+}
+java:S1874%"5Remove this use of "setPoolConfig"; it is deprecated.(Ãíİúÿÿÿÿ8¸éÁå2J$41f803c5-1e26-49f4-92c4-60bd27f1e6b0
+€
+java:S1128"cRemove this unused import 'org.springframework.data.redis.connection.RedisStandaloneConfiguration'.(¾Ãå8…²Äå2
